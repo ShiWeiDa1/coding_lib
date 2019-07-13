@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 
-//格式化代码快捷键 ctr+alt+l
+//idea 格式化代码快捷键 ctr+alt+l 
 class ListNode {
     //保存的数据
     int val;
